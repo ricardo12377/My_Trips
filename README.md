@@ -1,7 +1,7 @@
 ## My Trips
 
-Um site onde mostro os locais no mundo que quero viajar, os meu favoritos.
+<strong>Website to show countries i want to visit.</strong>
 
-
+<h5>Start project</h5>
 -npm run dev
 -yarn dev
